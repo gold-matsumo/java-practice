@@ -6,8 +6,11 @@ dokojavaは簡単なものなら問題ないが機能制限がある。
 # 環境
 Windows10
 ## 方法1.JDK単体
-1.OSを確認
+### OSを確認
 Windowsキー+X　からシステム→詳細情報→システムのシステムの種類を確認、32bitか64bitかを確認する。
+### サイトへ
+OracleのサイトからJDKをダウンロード→https://www.oracle.com/java/technologies/javase-downloads.html
+　　
 
 ## 方法2.IDEを使う
 ## 方法3.プラグイン入りIDEを使う
