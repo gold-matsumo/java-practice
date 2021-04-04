@@ -21,6 +21,9 @@ Pathをクリック→編集→新規を押し、binファイルへのパスを�
 ### 参考
 https://dan-chan.com/java-update-07/
 ## 方法2.IDEを使う
+今回は学習のため、無料オープンソースのintelij IDEA EDUを使う。
+### ダウンロード
+ダウンロードページ→https://www.jetbrains.com/ja-jp/edu-products/download/download-thanks.html?platform=windows
 ## 方法3.プラグイン入りIDEを使う
 # どれがいいか
 
