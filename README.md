@@ -27,5 +27,10 @@ https://dan-chan.com/java-update-07/
 ### 終わり
 あとはインストールを進めればOK、PCによっては管理者権限で開く必要あり。
 ## 方法3.プラグイン入りIDEを使う
+euripus日本語化プラグインが入っているPleiadesを使う。
+### ダウンロード
+今回は最新版の2021年版を使う（Windowsは7zipで解凍しないとだめらしい）
+Pleiadesダウンロードページ→https://mergedoc.osdn.jp/
+###
 # どれがいいか
 
