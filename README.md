@@ -9,9 +9,8 @@ Windows10
 ### OSを確認
 Windowsキー+X　からシステム→詳細情報→システムのシステムの種類を確認、32bitか64bitかを確認する。
 ### サイトへ
-OracleのサイトからJDKをダウンロード→https://www.oracle.com/java/technologies/javase-downloads.html
-　　
-
+OracleのサイトからJDKをダウンロード、今回はjava SE 16を使う。Windows x64 Installerをダウンロードする。（参考記事が古かったので、32bitのWindowsOSはなかった）
+Oracleのサイト→https://www.oracle.com/java/technologies/javase-downloads.html
 ## 方法2.IDEを使う
 ## 方法3.プラグイン入りIDEを使う
 # どれがいいか
